@@ -1,0 +1,25 @@
+{
+  "name": "多功能计算器",
+  "version": "1.6.0",
+  "logo": "logo.png",
+  "platform": ["win32", "darwin", "linux"],
+  "main": "index.html",
+  "preload": "preload.js",
+  "development": {
+    "main": "index.html"
+  },
+  "pluginSetting": {
+    "single": true,
+    "width": 800,
+    "height": 200,
+    "resizable": true,
+    "restore": true
+  },
+  "features": [
+    {
+      "code": "calculator",
+      "explain": "计算器",
+      "cmds": ["计算器", "calc"]
+    }
+  ]
+} 

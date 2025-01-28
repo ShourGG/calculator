@@ -1,0 +1,6 @@
+{
+  "name": "calculator",
+  "version": "1.6.0",
+  "description": "多功能计算器 uTools 插件",
+  "main": "preload.js"
+} 
